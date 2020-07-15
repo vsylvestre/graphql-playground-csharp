@@ -16,4 +16,4 @@ After cloning the repository, run the program using
 dotnet run
 ```
 
-The app should be available at on port `5000`, and the playground at `localhost:5000/playground`.
+The app should be available on port `5000`, and the playground at `localhost:5000/playground`.
